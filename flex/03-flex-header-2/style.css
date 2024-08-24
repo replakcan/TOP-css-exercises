@@ -53,19 +53,17 @@ ul {
   list-style-type: none;
   display: flex;
   padding: 0;
-  gap: 8px;
+  gap: 16px;
 }
 
 .left-group {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding-left: 16px;
+  gap: 16px;
 }
 
 .right-group {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding-right: 16px;
+  gap: 16px;
 }
